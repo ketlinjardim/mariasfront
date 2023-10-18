@@ -1,0 +1,49 @@
+*{
+    font-family: "Young+Serif & display=swap";
+   
+}
+.bg-stilo-nav{
+    background-color:#86C582;
+    height: 10rem;
+    
+  
+}
+
+
+#navbar-items .navbar-nav {
+    display: flex;   
+    justify-content: center; 
+    width: 100%;
+}
+
+.navbar-brand {
+    max-width: 11%;
+}
+
+img {
+    
+    height: 30%;
+    margin: 3rem;
+
+}
+.carousel-inner{
+    margin-top: 10rem;
+}
+.maquiagem{
+    height: 10rem;
+    width: 10rem;
+}
+.carousel-item{
+    width: 90%;
+   
+   
+}
+.col-3{
+    height: 30%;
+    width: 25%;
+}
+.navbar-collapse{
+    background-color: #86C582;
+}
+
+
